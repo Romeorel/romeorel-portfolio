@@ -1,5 +1,5 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://yourdomain.com', // replace when deployed
+  siteUrl: 'https://romeorel-portfolio.vercel.app/', // replace when deployed
   generateRobotsTxt: true,
 };

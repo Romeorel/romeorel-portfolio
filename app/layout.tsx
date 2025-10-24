@@ -25,11 +25,11 @@ export const metadata: Metadata = {
     title: "Roméo Rel | Next.js Developer",
     description:
       "Build modern, SEO, high-performance websites — Next.js and React development.",
-    url: "",
+    url: "https://romeorel-portfolio.vercel.app/",
     siteName: "Roméo Rel | Next.js Developer",
     images: [
       {
-        url: "",
+        url: "https://romeorel-portfolio.vercel.app/",
         width: 1200,
         height: 630,
         alt: "Roméo Rel - Next.js Developer Portfolio",
@@ -56,7 +56,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Person",
               name: "Roméo Rel",
-              url: "https://yourdomain.com", // replace with your real URL
+              url: "https://romeorel-portfolio.vercel.app/", // replace with your real URL
               jobTitle: "Next.js Developer",
               sameAs: [
                 "https://github.com/Romeorel",
