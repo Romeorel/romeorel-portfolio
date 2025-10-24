@@ -6,7 +6,6 @@ import ContactPage from "./contact/page";
 export default function Home() {
   return (
     <>
-      
       <p>
         I’m Romeo Rel, a freelance Next.js developer specializing in
         high-performance web applications using React and Tailwind CSS.
